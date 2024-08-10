@@ -1,0 +1,1 @@
+{"uuid":"e1583c5d-1700-4242-8038-3f0dda18734f","name":"tests.LoginFunctionality.AppsIcon","children":["e2a1851e-aded-4951-9949-3f72c5eec639"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721345474298,"stop":1721345480204}],"afters":[],"start":1721345474232,"stop":1721345517043}
