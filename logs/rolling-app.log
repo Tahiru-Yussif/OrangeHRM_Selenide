@@ -1,0 +1,7 @@
+2024-09-03 23:23:49 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-03 23:23:49 [main] INFO  tests.LoginFunctionality.LoginSuccessTest - Starting the login test
+2024-09-03 23:23:49 [main] INFO  ArmsProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-03 23:23:59 [main] INFO  ArmsProject.util.LoginBase - Expected dashboard URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2024-09-03 23:23:59 [main] INFO  ArmsProject.util.LoginBase - Actual URL after login: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2024-09-03 23:23:59 [main] INFO  tests.LoginFunctionality.LoginSuccessTest - Login test completed successfully
+2024-09-03 23:23:59 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.

@@ -1,20 +1,31 @@
 package tests.basetest;
 
-import ArmsProject.util.AppConfig;
-import ArmsProject.util.Leaves.LeavesType;
+import OrangeHrmProject.util.AppConfig;
+import OrangeHrmProject.util.JsonDataReader;
+import OrangeHrmProject.util.RoutesConfig;
+import com.fasterxml.jackson.databind.JsonNode;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.testng.Assert;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
 import com.codeborne.selenide.Configuration;
+
+import java.io.IOException;
+
 import static com.codeborne.selenide.Selenide.closeWebDriver;
 
 public class BaseTest {
 
-//    public WebDriver driver;
     public static String baseURL;
-    public String leavePageURL;
-    public static String username;
-    public static String password;
-    public static String leaveTypeName;
+    public String dashboardURL;
+    public static String validUsername;
+    public static String validPassword;
+    public static String invalidUsername;
+    public static String invalidPassword;
+    public static String userManagementPageUrl;
+    protected JsonNode jsonData;
+    protected static final Logger logger = LogManager.getLogger(BaseTest.class);
 
     @BeforeClass
     public void setUp() {
@@ -22,21 +33,32 @@ public class BaseTest {
         Configuration.browser = "chrome";
         Configuration.browserSize = "1920x1080";  // Set browser size instead of startMaximized
         Configuration.timeout = 10000;
-        Configuration.baseUrl = AppConfig.getBaseURL();
+
         // Load URLs and other configurations from AppConfig
         baseURL = AppConfig.getBaseURL();
-        leavePageURL = AppConfig.getLeavePageURL();
-        username = AppConfig.getUsername();
-        password = AppConfig.getPassword();
-        leaveTypeName = LeavesType.getLeaveTypeName();
+        dashboardURL = AppConfig.getDashboardURL();
+        userManagementPageUrl = RoutesConfig.userManagementPageUrl();
+        validUsername = AppConfig.getValidUsername();
+        validPassword = AppConfig.getValidPassword();
+        invalidPassword = AppConfig.getInvalidUsername();
+        invalidUsername = AppConfig.getInvalidPassword();
+
+        // Load JSON data
+        try {
+            jsonData = JsonDataReader.loadJsonData("src/main/resources/data/testData.json");
+        } catch (IOException e) {
+            logger.error("Failed to load JSON data", e);
+            Assert.fail("Failed to load JSON data");
+        }
+
+        // Log base URL
+        logger.info("Base URL is set to: " + baseURL);
     }
 
     @AfterSuite
     public void tearDown() {
         // Close the browser
         closeWebDriver();
-
-        // Flush the ExtentReports
-//        this.extent.flush();
+        logger.info("WebDriver closed and test suite teardown complete.");
     }
 }

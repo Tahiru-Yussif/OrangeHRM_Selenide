@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true"
-          name="C:/Users/TahiruYussif/IdeaProjects/ARMS_SELENIUM_AUTOMATION/src/test/java/tests/LoginFunctionality/LoginTest.java">
+    <test verbose="2" preserve-order="true" name="C:/Users/TahiruYussif/Projects/OrangeHRM_Automation">
         <classes>
-<!--            <class name="tests.LoginFunctionality.Login">-->
-<!--                <methods>-->
-<!--                    <include name="logInFunctionality"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-            <class name="tests.Leaves.HomePage.LeavesHomePage"/>
-
+            <class name="tests.LoginFunctionality.LoginSuccessTest">
+                <methods>
+                    <include name="loginSuccessfully"/>
+                </methods>
+            </class>
+            <class name="tests.LoginFunctionality.LoginUnsuccessfulTest">
+                <methods>
+                    <include name="loginUnsuccessful"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>
