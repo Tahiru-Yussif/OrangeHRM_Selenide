@@ -4,19 +4,28 @@ import OrangeHrmProject.pages.AdminPage.userManagementPage;
 import OrangeHrmProject.util.LoginBase;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import tests.basetest.BaseTest;
 
+import static com.codeborne.selenide.Selenide.sleep;
 import static com.codeborne.selenide.WebDriverRunner.url;
 import static org.testng.Assert.assertEquals;
 
 public class UserManagementTest extends BaseTest {
 
 private static final Logger logger = LogManager.getLogger(UserManagementTest.class);
+private userManagementPage users;
 
-    @Test
-    public void createUser() {
-        userManagementPage users = new userManagementPage();
+    @BeforeMethod
+    @Override
+    public void setUp() {
+        super.setUp(); // Call the base class setup if needed
+        users = new userManagementPage(); // Updated class name
+    }
+
+    @Test(priority = 1)
+    public void verifyUserManagementPage() {
 
         // Attempt to log in
         logger.info("Attempting to log in with username: {}", validUsername);
@@ -37,5 +46,18 @@ private static final Logger logger = LogManager.getLogger(UserManagementTest.cla
             logger.error("Failed to visit the user management page: {}", e.getMessage());
             throw e; // Rethrow the exception to fail the test
         }
+    }
+
+    @Test(priority = 2)
+    public void createUser() {
+
+        // Navigate to the user management page
+//        users.clickAdminButton();
+
+        users.clickAddUserButton();
+
+        users.selectUserRole();
+        sleep(5000);
+
     }
 }

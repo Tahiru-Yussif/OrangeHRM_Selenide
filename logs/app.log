@@ -1,32 +1,114 @@
-2024-09-09 00:17:48,107 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:17:48,201 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
-2024-09-09 00:17:48,202 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:18:19,835 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
-2024-09-09 00:18:26,324 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:18:26,414 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
-2024-09-09 00:18:26,415 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:18:57,895 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
-2024-09-09 00:19:34,553 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:19:34,648 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
-2024-09-09 00:19:34,649 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:20:06,082 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
-2024-09-09 00:20:32,764 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:20:32,855 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
-2024-09-09 00:20:32,856 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:21:02,951 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
-2024-09-09 00:21:13,494 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
-2024-09-09 00:23:59,366 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:23:59,464 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
-2024-09-09 00:23:59,465 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:24:29,043 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
-2024-09-09 00:24:39,645 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
-2024-09-09 00:27:31,510 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:27:31,598 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
-2024-09-09 00:27:31,599 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:28:03,295 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
-2024-09-09 00:28:08,045 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:28:08,129 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
-2024-09-09 00:28:08,129 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
-2024-09-09 00:28:28,264 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
-2024-09-09 00:28:31,835 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
-2024-09-09 00:28:32,120 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 00:03:13,955 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: null
+2024-09-10 00:03:13,975 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: null
+2024-09-10 00:03:14,035 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 00:03:33,157 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: null
+2024-09-10 00:03:33,163 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: null
+2024-09-10 00:03:33,222 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 00:03:40,737 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: null
+2024-09-10 00:03:40,747 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: null
+2024-09-10 00:03:40,808 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 00:05:29,591 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 00:05:29,795 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 00:05:29,796 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 00:05:38,236 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 00:05:41,432 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 00:05:41,613 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 00:34:16,215 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 00:34:16,641 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 00:34:16,649 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 00:34:16,651 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 00:34:26,313 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 00:34:28,314 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 00:34:28,540 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 00:34:53,461 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 00:34:53,850 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 00:34:53,857 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 00:34:53,858 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 00:35:03,335 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 00:35:05,456 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 00:35:05,772 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 00:35:37,815 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 00:35:38,022 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 00:35:38,024 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 00:35:46,191 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 00:35:49,453 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 00:35:49,468 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 00:35:55,732 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:00:59,881 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:01:00,099 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:01:00,100 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:01:09,469 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 01:01:12,667 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 01:01:12,683 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:01:26,012 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:02:16,587 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:02:16,816 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:02:16,817 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:02:48,483 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:02:58,999 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:03:15,655 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:03:15,908 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:03:15,908 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:03:47,611 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:03:58,015 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:04:05,089 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:04:05,324 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:04:05,324 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:04:11,839 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 01:04:13,753 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 01:04:13,768 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:04:20,057 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:05:26,431 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:05:26,674 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:05:26,677 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:05:39,330 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 01:05:42,788 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 01:05:42,802 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:05:49,127 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:06:35,054 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:06:35,277 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:06:35,278 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:06:42,683 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 01:06:44,721 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 01:06:44,730 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:06:52,710 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:08:01,264 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:08:01,568 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:08:01,569 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:08:09,942 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 01:08:13,027 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 01:08:13,041 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:08:19,409 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:18:36,395 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:18:36,622 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:18:36,624 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:18:51,458 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 01:18:56,642 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 01:18:56,655 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:19:03,532 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:19:24,259 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:19:24,491 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:19:24,494 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:19:33,766 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 01:19:35,581 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 01:19:35,595 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:19:47,325 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:20:26,997 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:20:27,217 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:20:27,218 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:20:29,450 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:20:40,184 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:21:05,483 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:21:05,737 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:21:05,737 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:21:14,866 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 01:21:18,062 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 01:21:18,082 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:21:30,106 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
+2024-09-10 01:25:17,807 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:25:18,035 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Attempting to log in with username: Admin
+2024-09-10 01:25:18,035 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:25:25,762 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login attempt completed
+2024-09-10 01:25:29,526 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Successfully visited the User Management page: URLs match
+2024-09-10 01:25:29,542 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/
+2024-09-10 01:25:41,420 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
