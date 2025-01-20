@@ -75,7 +75,7 @@ public class JobTitleTest extends BaseTest {
     public void shouldDeleteJobTitles() {
         logger.info("Deleting job titles");
         jobTitlePage.clickDeleteJobTitleButton();
-        // Verify success message after form submission
+        // Verify success message after form submissiongit
         String successMessage = jobTitlePage.getSuccessMessage(Constants.SUCCESS, Constants.SUCCESSFULLY_DELETED);
         Assert.assertTrue(successMessage.contains(Constants.SUCCESSFULLY_DELETED), "Expected 'Success' message not found");
         logger.info("User deletion test completed.");
