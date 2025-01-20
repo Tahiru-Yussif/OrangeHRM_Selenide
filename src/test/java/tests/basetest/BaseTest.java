@@ -31,7 +31,8 @@ public class BaseTest {
     public void setUp() {
         // Set Selenide configuration
         Configuration.browser = "chrome";
-        Configuration.browserSize = "1920x1080";  // Set browser size instead of startMaximized
+//        Configuration.browserSize = "1920x1080";  // Set browser size instead of startMaximized
+        Configuration.browserSize = "1024x768";  // Set browser size instead of startMaximized
         Configuration.timeout = 10000;
 
         // Load URLs and other configurations from AppConfig

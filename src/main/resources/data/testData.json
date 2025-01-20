@@ -4,5 +4,14 @@
     "updatedTextField": "Rem repellat enim eos omnis",
     "textFieldDescription": "Aut illo voluptas qui natus unde qui doloremque quasi est asperiores minima ut omnis tenetur.",
     "comments": "Ut quos asperiores 33 expedita dicta eos quia temporibus ea labore repudiandae et autem amet."
+  },
+
+  "jobInformation": {
+    "jobTitle": "Software Engineer",
+    "jobDescription": "Responsible for developing software solutions, writing code, debugging, and collaborating with cross-functional teams.",
+    "jobResponsibilities": "Develop software, write efficient code, participate in code reviews, and ensure the timely delivery of high-quality software.",
+    "skillsRequired": "Java, JavaScript, SQL, problem-solving, communication skills, and teamwork.",
+    "note": "Please ensure all job descriptions align with the company's latest standards and provide details about required experience."
   }
+
 }

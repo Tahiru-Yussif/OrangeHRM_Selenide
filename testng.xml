@@ -3,16 +3,26 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/TahiruYussif/Projects/OrangeHRM_Automation">
         <classes>
-            <class name="tests.LoginFunctionality.LoginSuccessTest">
+            <class name="tests.Login.LoginSuccessTest">
                 <methods>
                     <include name="loginSuccessfully"/>
                 </methods>
             </class>
-            <class name="tests.LoginFunctionality.LoginUnsuccessfulTest">
+
+            <class name="tests.Login.LoginUnsuccessfulTest">
                 <methods>
                     <include name="loginUnsuccessful"/>
                 </methods>
             </class>
+
+            <class name="tests.Admin.UserManagement.UserManagementTest">
+                <methods>
+                    <include name="verifyUserManagementPage"/>
+                    <include name="createUser"/>
+                    <include name="verifyErrorMessageForMissingFields"/>
+                </methods>
+            </class>
+
         </classes>
     </test>
 </suite>
