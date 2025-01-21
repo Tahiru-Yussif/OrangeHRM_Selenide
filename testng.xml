@@ -23,6 +23,10 @@
                 </methods>
             </class>
 
+            <class name="tests.Admin.Job.JobTitle.JobTitleTest">
+
+            </class>
+
         </classes>
     </test>
 </suite>

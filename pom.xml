@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.mavenProject</groupId>
-    <artifactId>ARMS_SELENIUM_AUTOMATION</artifactId>
+    <artifactId>OrangeHRM Automation</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

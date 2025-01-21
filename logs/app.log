@@ -1,48 +1,70 @@
-2025-01-20 00:01:42,473 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 00:01:42,535 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - JobTitlePage initialized.
-2025-01-20 00:01:42,536 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 00:01:48,474 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Login completed before the test
-2025-01-20 00:01:48,475 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Navigating to JobTitle page.
-2025-01-20 00:01:53,053 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Cancel Deleting job titles
-2025-01-20 00:01:53,555 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
-2025-01-20 00:01:54,637 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
-2025-01-20 00:02:59,332 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 00:02:59,388 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - JobTitlePage initialized.
-2025-01-20 00:02:59,388 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 00:03:06,071 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Login completed before the test
-2025-01-20 00:03:06,071 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Navigating to JobTitle page.
-2025-01-20 00:03:11,920 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Cancel Deleting job titles
-2025-01-20 00:03:12,740 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
-2025-01-20 00:03:13,850 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
-2025-01-20 00:09:21,592 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 00:09:21,656 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - JobTitlePage initialized.
-2025-01-20 00:09:21,657 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 00:09:28,635 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Login completed before the test
-2025-01-20 00:09:28,637 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Navigating to JobTitle page.
-2025-01-20 00:09:33,391 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Cancel Deleting job titles
-2025-01-20 00:09:34,151 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
-2025-01-20 00:09:35,208 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
-2025-01-20 00:12:51,739 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 00:12:51,787 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - JobTitlePage initialized.
-2025-01-20 00:12:51,788 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 00:13:09,158 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Login completed before the test
-2025-01-20 00:13:09,158 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Navigating to JobTitle page.
-2025-01-20 00:13:15,398 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Cancel Deleting job titles
-2025-01-20 00:13:16,159 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
-2025-01-20 00:13:17,656 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
-2025-01-20 23:00:13,396 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 23:00:13,482 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - JobTitlePage initialized.
-2025-01-20 23:00:13,483 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 23:00:21,991 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Login completed before the test
-2025-01-20 23:00:21,991 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Navigating to JobTitle page.
-2025-01-20 23:00:26,415 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Cancel Deleting job titles
-2025-01-20 23:00:27,452 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
-2025-01-20 23:00:28,533 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
-2025-01-20 23:01:28,762 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 23:01:28,810 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - JobTitlePage initialized.
-2025-01-20 23:01:28,811 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-01-20 23:01:34,387 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Login completed before the test
-2025-01-20 23:01:34,388 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Navigating to JobTitle page.
-2025-01-20 23:01:38,739 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Cancel Deleting job titles
-2025-01-20 23:01:39,533 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
-2025-01-20 23:01:40,663 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
+2025-01-21 00:26:31,947 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:26:32,084 [main] INFO  tests.Login.LoginSuccessTest - Starting the login test
+2025-01-21 00:26:32,086 [main] INFO  tests.Login.LoginSuccessTest - Attempting to log in with username: Admin
+2025-01-21 00:26:32,087 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:26:37,151 [main] INFO  tests.Login.LoginSuccessTest - Login attempt completed
+2025-01-21 00:26:38,270 [main] INFO  tests.Login.LoginSuccessTest - Expected dashboard URL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2025-01-21 00:26:38,270 [main] INFO  tests.Login.LoginSuccessTest - Actual URL after login: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2025-01-21 00:26:38,272 [main] INFO  tests.Login.LoginSuccessTest - Login test passed: URLs match
+2025-01-21 00:26:38,273 [main] INFO  tests.Login.LoginSuccessTest - Login test completed successfully
+2025-01-21 00:26:38,296 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
+2025-01-21 00:26:39,909 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
+2025-01-21 00:26:39,914 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:26:39,916 [main] INFO  tests.Login.LoginUnsuccessfulTest - Starting the unsuccessful login test
+2025-01-21 00:26:39,916 [main] INFO  tests.Login.LoginUnsuccessfulTest - Navigating to the login page and attempting login with invalid credentials
+2025-01-21 00:26:39,916 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:26:41,697 [main] INFO  tests.Login.LoginUnsuccessfulTest - Attempting to retrieve the error message from the login page
+2025-01-21 00:26:42,182 [main] INFO  tests.Login.LoginUnsuccessfulTest - Error message displayed: Invalid credentials
+2025-01-21 00:26:42,182 [main] INFO  tests.Login.LoginUnsuccessfulTest - Assertion passed: Error message contains 'Invalid credentials'
+2025-01-21 00:26:42,182 [main] INFO  tests.Login.LoginUnsuccessfulTest - Unsuccessful login test completed
+2025-01-21 00:26:42,195 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:26:42,196 [main] INFO  tests.Admin.UserManagement.UserManagementTest - UserManagementPage initialized.
+2025-01-21 00:26:42,196 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Logging in before the test
+2025-01-21 00:26:42,196 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:26:43,307 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login completed before the test
+2025-01-21 00:26:43,307 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Navigating to User Management page.
+2025-01-21 00:26:47,635 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Starting test: createUser
+2025-01-21 00:26:47,635 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Filling in user details.
+2025-01-21 00:26:50,638 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Submitting user creation form.
+2025-01-21 00:26:53,078 [main] INFO  tests.Admin.UserManagement.UserManagementTest - User creation test completed.
+2025-01-21 00:26:53,081 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
+2025-01-21 00:26:56,244 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
+2025-01-21 00:26:56,249 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:26:56,249 [main] INFO  tests.Admin.UserManagement.UserManagementTest - UserManagementPage initialized.
+2025-01-21 00:26:56,249 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Logging in before the test
+2025-01-21 00:26:56,249 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:26:57,345 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Login completed before the test
+2025-01-21 00:26:57,345 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Navigating to User Management page.
+2025-01-21 00:27:01,162 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Starting test: verifyErrorMessageForMissingFields
+2025-01-21 00:27:01,162 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Leaving required fields blank and attempting to save.
+2025-01-21 00:27:03,675 [main] INFO  tests.Admin.UserManagement.UserManagementTest - Error message for missing fields verified successfully.
+2025-01-21 00:27:03,678 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
+2025-01-21 00:27:04,796 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
+2025-01-21 00:27:04,799 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:27:04,800 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - JobTitlePage initialized.
+2025-01-21 00:27:04,800 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:27:05,858 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Login completed before the test
+2025-01-21 00:27:05,858 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Navigating to JobTitle page.
+2025-01-21 00:27:10,062 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Creating a new job title
+2025-01-21 00:27:12,020 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Verifying success message.
+2025-01-21 00:27:14,408 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - User creation test completed.
+2025-01-21 00:27:14,410 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
+2025-01-21 00:27:15,483 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
+2025-01-21 00:27:15,486 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:27:15,486 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - JobTitlePage initialized.
+2025-01-21 00:27:15,486 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:27:16,545 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Login completed before the test
+2025-01-21 00:27:16,545 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Navigating to JobTitle page.
+2025-01-21 00:27:21,430 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Deleting job titles
+2025-01-21 00:27:22,719 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - User deletion test completed.
+2025-01-21 00:27:22,721 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
+2025-01-21 00:27:23,763 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
+2025-01-21 00:27:23,767 [main] INFO  tests.basetest.BaseTest - Base URL is set to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:27:23,767 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - JobTitlePage initialized.
+2025-01-21 00:27:23,768 [main] INFO  OrangeHrmProject.util.LoginBase - Navigating to login page at: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-21 00:27:24,832 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Login completed before the test
+2025-01-21 00:27:24,832 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Navigating to JobTitle page.
+2025-01-21 00:27:28,922 [main] INFO  tests.Admin.Job.JobTitle.JobTitleTest - Cancel Deleting job titles
+2025-01-21 00:27:29,609 [main] INFO  OrangeHrmProject.util.TestUtils - Logging out after test.
+2025-01-21 00:27:30,663 [main] INFO  OrangeHrmProject.util.TestUtils - Logout successful.
+2025-01-21 00:27:30,909 [main] INFO  tests.basetest.BaseTest - WebDriver closed and test suite teardown complete.
